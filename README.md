@@ -1,7 +1,7 @@
  # FCFS in ubuntu (batch file)
  # Compiler Used
  <h2>g++</h2> is a comipler used to run c++ batch files in Linux Terminal 
- # Execution
+ <h2> Execution</h2>
    ./a.out is used to excute c++ batch file.
  
  # Explanation
