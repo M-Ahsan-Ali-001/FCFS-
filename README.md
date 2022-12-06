@@ -2,7 +2,7 @@
  # Compiler Used
  <h2>g++</h2> is a comipler used to run c++ batch files in Linux Terminal 
  # Execution
- <h2>./a.out</h2> is used to excute c++ batch file.
+   ./a.out is used to excute c++ batch file.
  
  # Explanation
  - Dynamically Allocated array are used to take input (BT)
