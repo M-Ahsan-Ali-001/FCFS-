@@ -7,15 +7,15 @@
  # Explanation
  - Dynamically Allocated array are used to take input (BT)
  - Calculated WT using formula:
-    wt[i] = bt[i-1] + wt[i-1]  (Loop used)
-    wt[1] = bt[0] + wt[0]
+   - wt[i] = bt[i-1] + wt[i-1]  (Loop used)
+   - wt[1] = bt[0] + wt[0]
  - Calculated TAT using formula:
     TAT = WT + BT (Loop used)
  -  Calcualted Average using Formula:
-    AvgWT + = Wt
-    AvgWT/len(BT)        (Loop used)
-    AvgTAT + = TAT
-    AvgTAT/= len(BT)
+    - AvgWT + = Wt
+    - AvgWT/len(BT)        (Loop used)
+    - AvgTAT + = TAT
+    - AvgTAT/= len(BT)
     
 
     
